@@ -1,0 +1,118 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-s2s-01",
+   "name": "Aurora Talk 9",
+   "slug": "demo-s2s-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "bba_score": 0.92,
+   "fdb_score": null,
+   "tau_voice_score": 0.5
+  },
+  {
+   "id": "demo-s2s-02",
+   "name": "Kestrel Talk 8",
+   "slug": "demo-s2s-02",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "bba_score": 0.85,
+   "fdb_score": 0.75,
+   "tau_voice_score": null
+  },
+  {
+   "id": "demo-s2s-03",
+   "name": "Lumora Talk 7",
+   "slug": "demo-s2s-03",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "bba_score": 0.78,
+   "fdb_score": 0.7,
+   "tau_voice_score": 0.42
+  },
+  {
+   "id": "demo-s2s-04",
+   "name": "Brightfield Talk 6",
+   "slug": "demo-s2s-04",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "bba_score": 0.71,
+   "fdb_score": null,
+   "tau_voice_score": null
+  },
+  {
+   "id": "demo-s2s-05",
+   "name": "Aurora Talk 5",
+   "slug": "demo-s2s-05",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "bba_score": 0.64,
+   "fdb_score": 0.6,
+   "tau_voice_score": 0.34
+  },
+  {
+   "id": "demo-s2s-06",
+   "name": "Kestrel Talk 4",
+   "slug": "demo-s2s-06",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "bba_score": 0.57,
+   "fdb_score": 0.55,
+   "tau_voice_score": null
+  },
+  {
+   "id": "demo-s2s-07",
+   "name": "Lumora Talk 3",
+   "slug": "demo-s2s-07",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "bba_score": 0.5,
+   "fdb_score": null,
+   "tau_voice_score": 0.26
+  },
+  {
+   "id": "demo-s2s-08",
+   "name": "Brightfield Talk 2",
+   "slug": "demo-s2s-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "bba_score": 0.43,
+   "fdb_score": 0.45,
+   "tau_voice_score": null
+  },
+  {
+   "id": "demo-s2s-09",
+   "name": "Aurora Talk 1",
+   "slug": "demo-s2s-09",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "bba_score": 0.36,
+   "fdb_score": 0.4,
+   "tau_voice_score": 0.18
+  },
+  {
+   "id": "demo-s2s-bad",
+   "name": "Broken Demo Record",
+   "bba_score": "high"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-tts-01",
+   "name": "Aurora Voice 16 (max)",
+   "slug": "demo-tts-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1240,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-tts-02",
+   "name": "Veyra Voice 16",
+   "slug": "demo-tts-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1233,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-tts-03",
+   "name": "Brightfield Voice 16",
+   "slug": "demo-tts-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1223,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-tts-04",
+   "name": "Northwind Voice 15",
+   "slug": "demo-tts-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1201,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-tts-05",
+   "name": "Quillon Voice 15",
+   "slug": "demo-tts-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1198,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-tts-06",
+   "name": "Aurora Voice 15 (max)",
+   "slug": "demo-tts-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1182,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-tts-07",
+   "name": "Veyra Voice 14",
+   "slug": "demo-tts-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1175,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-tts-08",
+   "name": "Brightfield Voice 14",
+   "slug": "demo-tts-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1179,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-tts-09",
+   "name": "Kestrel Voice 14",
+   "slug": "demo-tts-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1139,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-tts-10",
+   "name": "Quillon Voice 13",
+   "slug": "demo-tts-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1171,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-tts-11",
+   "name": "Aurora Voice 13 (max)",
+   "slug": "demo-tts-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1145,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-tts-12",
+   "name": "Veyra Voice 13",
+   "slug": "demo-tts-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1127,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-tts-13",
+   "name": "Orbital Voice 12",
+   "slug": "demo-tts-13",
+   "model_creator": {
+    "id": "demo-creator-orbital-arts",
+    "name": "Orbital Arts"
+   },
+   "elo": 1099,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-tts-14",
+   "name": "Kestrel Voice 12",
+   "slug": "demo-tts-14",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1143,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-tts-15",
+   "name": "Quillon Voice 12",
+   "slug": "demo-tts-15",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1064,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-tts-16",
+   "name": "Aurora Voice 11 (max)",
+   "slug": "demo-tts-16",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1109,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-tts-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-i2va-01",
+   "name": "Aurora Motion 10 (max)",
+   "slug": "demo-i2va-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1163,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-i2va-02",
+   "name": "Veyra Motion 10",
+   "slug": "demo-i2va-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1149,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-i2va-03",
+   "name": "Brightfield Motion 10",
+   "slug": "demo-i2va-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1145,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-i2va-04",
+   "name": "Northwind Motion 9",
+   "slug": "demo-i2va-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1122,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-i2va-05",
+   "name": "Quillon Motion 9",
+   "slug": "demo-i2va-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1115,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-i2va-06",
+   "name": "Aurora Motion 9 (max)",
+   "slug": "demo-i2va-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1093,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-i2va-07",
+   "name": "Veyra Motion 8",
+   "slug": "demo-i2va-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1103,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-i2va-08",
+   "name": "Brightfield Motion 8",
+   "slug": "demo-i2va-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1108,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-i2va-09",
+   "name": "Kestrel Motion 8",
+   "slug": "demo-i2va-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1103,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-i2va-10",
+   "name": "Quillon Motion 7",
+   "slug": "demo-i2va-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1063,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-i2va-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

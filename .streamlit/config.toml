@@ -1,0 +1,17 @@
+# The app draws its own light and dark look (see src/ui/styles.py) and has its own
+# Bright/Dark switch, so Streamlit's built-in theme is fixed to one base here.
+# These values only matter for small widget details; colours and fonts come from the app's CSS.
+
+[theme]
+base = "light"
+primaryColor = "#1E8E77"
+backgroundColor = "#F2EFE7"
+secondaryBackgroundColor = "#ECE8DD"
+textColor = "#1E1C17"
+baseRadius = "0.5rem"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

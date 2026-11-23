@@ -1,0 +1,235 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-t2i-01",
+   "name": "Aurora Image 20 (max)",
+   "slug": "demo-t2i-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1262,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2i-02",
+   "name": "Veyra Image 20",
+   "slug": "demo-t2i-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1250,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2i-03",
+   "name": "Brightfield Image 20",
+   "slug": "demo-t2i-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1245,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2i-04",
+   "name": "Northwind Image 19",
+   "slug": "demo-t2i-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1227,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2i-05",
+   "name": "Quillon Image 19",
+   "slug": "demo-t2i-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1217,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2i-06",
+   "name": "Aurora Image 19 (max)",
+   "slug": "demo-t2i-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1226,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2i-07",
+   "name": "Veyra Image 18",
+   "slug": "demo-t2i-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1210,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2i-08",
+   "name": "Brightfield Image 18",
+   "slug": "demo-t2i-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1185,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2i-09",
+   "name": "Kestrel Image 18",
+   "slug": "demo-t2i-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1194,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-t2i-10",
+   "name": "Quillon Image 17",
+   "slug": "demo-t2i-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1148,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2i-11",
+   "name": "Aurora Image 17 (max)",
+   "slug": "demo-t2i-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1139,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-t2i-12",
+   "name": "Veyra Image 17",
+   "slug": "demo-t2i-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1131,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-t2i-13",
+   "name": "Orbital Image 16",
+   "slug": "demo-t2i-13",
+   "model_creator": {
+    "id": "demo-creator-orbital-arts",
+    "name": "Orbital Arts"
+   },
+   "elo": 1155,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2i-14",
+   "name": "Kestrel Image 16",
+   "slug": "demo-t2i-14",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1084,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-t2i-15",
+   "name": "Quillon Image 16",
+   "slug": "demo-t2i-15",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1154,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2i-16",
+   "name": "Aurora Image 15 (max)",
+   "slug": "demo-t2i-16",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1147,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-t2i-17",
+   "name": "Lumora Image 15",
+   "slug": "demo-t2i-17",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "elo": 1082,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2i-18",
+   "name": "Orbital Image 15",
+   "slug": "demo-t2i-18",
+   "model_creator": {
+    "id": "demo-creator-orbital-arts",
+    "name": "Orbital Arts"
+   },
+   "elo": 1056,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2i-19",
+   "name": "Kestrel Image 14",
+   "slug": "demo-t2i-19",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1013,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2i-20",
+   "name": "Quillon Image 14",
+   "slug": "demo-t2i-20",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1119,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-t2i-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

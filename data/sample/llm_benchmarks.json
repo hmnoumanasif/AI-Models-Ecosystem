@@ -1,0 +1,875 @@
+{
+ "tier": "free",
+ "intelligence_index_version": 5,
+ "pagination": {
+  "page": 1,
+  "page_size": 200,
+  "total_pages": 1,
+  "has_more": false
+ },
+ "data": [
+  {
+   "id": "demo-llm-01",
+   "name": "Aurora Reason 26 (max)",
+   "slug": "demo-llm-01",
+   "release_date": "2026-01-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 66.0,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2045.44,
+    "cost_per_task": {
+     "total_cost": 2.16
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 7.0,
+    "price_1m_output_tokens": 29.42
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 41.1,
+    "mean_time_to_first_token_seconds": 3.4
+   }
+  },
+  {
+   "id": "demo-llm-02",
+   "name": "Veyra Reason 25",
+   "slug": "demo-llm-02",
+   "release_date": "2026-02-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 64.1,
+    "artificial_analysis_coding_index": 56.7,
+    "artificial_analysis_agentic_index": 54.7
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1283.95,
+    "cost_per_task": {
+     "total_cost": 6.36
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 3.44,
+    "price_1m_output_tokens": 17.86
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 178.8,
+    "mean_time_to_first_token_seconds": 5.5
+   }
+  },
+  {
+   "id": "demo-llm-03",
+   "name": "Brightfield Reason 24",
+   "slug": "demo-llm-03",
+   "release_date": "2026-03-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 63.1,
+    "artificial_analysis_coding_index": 60.7,
+    "artificial_analysis_agentic_index": 51.5
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2400.89,
+    "cost_per_task": {
+     "total_cost": 5.017
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 1.64,
+    "price_1m_output_tokens": 8.6
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 40.9,
+    "mean_time_to_first_token_seconds": 4.92
+   }
+  },
+  {
+   "id": "demo-llm-04",
+   "name": "Northwind Reason 23",
+   "slug": "demo-llm-04",
+   "release_date": "2026-04-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 61.6,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 60.9
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2129.75,
+    "cost_per_task": {
+     "total_cost": 7.707
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.81,
+    "price_1m_output_tokens": 2.6
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 42.9,
+    "mean_time_to_first_token_seconds": 6.98
+   }
+  },
+  {
+   "id": "demo-llm-05",
+   "name": "Lumora Reason 22 (max)",
+   "slug": "demo-llm-05",
+   "release_date": "2026-05-05",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 60.5,
+    "artificial_analysis_coding_index": 55.9,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 351.02,
+    "cost_per_task": {
+     "total_cost": 1.013
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 1.6,
+    "price_1m_output_tokens": 7.96
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 137.4,
+    "mean_time_to_first_token_seconds": 2.94
+   }
+  },
+  {
+   "id": "demo-llm-06",
+   "name": "Aurora Reason 21",
+   "slug": "demo-llm-06",
+   "release_date": "2026-06-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 59.8,
+    "artificial_analysis_coding_index": 57.9,
+    "artificial_analysis_agentic_index": 55.1
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2752.42,
+    "cost_per_task": {
+     "total_cost": 2.91
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 3.97,
+    "price_1m_output_tokens": 15.68
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 172.9,
+    "mean_time_to_first_token_seconds": 1.14
+   }
+  },
+  {
+   "id": "demo-llm-07",
+   "name": "Veyra Reason 20",
+   "slug": "demo-llm-07",
+   "release_date": "2026-07-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 57.5,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 56.6
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1009.99,
+    "cost_per_task": {
+     "total_cost": 2.607
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.32,
+    "price_1m_output_tokens": 1.86
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 197.4,
+    "mean_time_to_first_token_seconds": 7.11
+   }
+  },
+  {
+   "id": "demo-llm-08",
+   "name": "Brightfield Reason 19",
+   "slug": "demo-llm-08",
+   "release_date": "2026-08-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 56.7,
+    "artificial_analysis_coding_index": 53.2,
+    "artificial_analysis_agentic_index": 50.2
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1349.57,
+    "cost_per_task": {
+     "total_cost": 8.86
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.77,
+    "price_1m_output_tokens": 4.17
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 130.5,
+    "mean_time_to_first_token_seconds": 5.54
+   }
+  },
+  {
+   "id": "demo-llm-09",
+   "name": "Northwind Reason 18 (max)",
+   "slug": "demo-llm-09",
+   "release_date": "2026-09-09",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 54.0,
+    "artificial_analysis_coding_index": 46.5,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 710.31,
+    "cost_per_task": {
+     "total_cost": 1.304
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.31,
+    "price_1m_output_tokens": 1.03
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 135.1,
+    "mean_time_to_first_token_seconds": 2.62
+   }
+  },
+  {
+   "id": "demo-llm-10",
+   "name": "Lumora Reason 17",
+   "slug": "demo-llm-10",
+   "release_date": "2026-01-10",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 52.1,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 49.7
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2610.1,
+    "cost_per_task": {
+     "total_cost": 2.597
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 3.68,
+    "price_1m_output_tokens": 16.43
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 202.0,
+    "mean_time_to_first_token_seconds": 6.86
+   }
+  },
+  {
+   "id": "demo-llm-11",
+   "name": "Aurora Reason 16",
+   "slug": "demo-llm-11",
+   "release_date": "2026-02-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 55.2,
+    "artificial_analysis_coding_index": 48.6,
+    "artificial_analysis_agentic_index": 54.7
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1467.51,
+    "cost_per_task": {
+     "total_cost": 1.438
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 6.33,
+    "price_1m_output_tokens": 37.6
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 60.7,
+    "mean_time_to_first_token_seconds": 3.87
+   }
+  },
+  {
+   "id": "demo-llm-12",
+   "name": "Veyra Reason 15",
+   "slug": "demo-llm-12",
+   "release_date": "2026-03-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 48.0,
+    "artificial_analysis_coding_index": 47.1,
+    "artificial_analysis_agentic_index": 36.7
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2825.87,
+    "cost_per_task": {
+     "total_cost": 1.597
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.12,
+    "price_1m_output_tokens": 0.37
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 100.2,
+    "mean_time_to_first_token_seconds": 4.69
+   }
+  },
+  {
+   "id": "demo-llm-13",
+   "name": "Brightfield Reason 14 (max)",
+   "slug": "demo-llm-13",
+   "release_date": "2026-04-13",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 49.4,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1371.38,
+    "cost_per_task": {
+     "total_cost": 8.121
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.12,
+    "price_1m_output_tokens": 0.65
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 193.5,
+    "mean_time_to_first_token_seconds": 7.25
+   }
+  },
+  {
+   "id": "demo-llm-14",
+   "name": "Northwind Reason 13",
+   "slug": "demo-llm-14",
+   "release_date": "2026-05-14",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 50.5,
+    "artificial_analysis_coding_index": 45.2,
+    "artificial_analysis_agentic_index": 46.3
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2327.56,
+    "cost_per_task": {
+     "total_cost": 7.91
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 1.45,
+    "price_1m_output_tokens": 8.59
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 172.4,
+    "mean_time_to_first_token_seconds": 7.45
+   }
+  },
+  {
+   "id": "demo-llm-15",
+   "name": "Lumora Reason 12",
+   "slug": "demo-llm-15",
+   "release_date": "2026-06-15",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 49.0,
+    "artificial_analysis_coding_index": 41.2,
+    "artificial_analysis_agentic_index": 39.3
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 3549.38,
+    "cost_per_task": {
+     "total_cost": 0.516
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.71,
+    "price_1m_output_tokens": 3.7
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 93.1,
+    "mean_time_to_first_token_seconds": 7.49
+   }
+  },
+  {
+   "id": "demo-llm-16",
+   "name": "Aurora Reason 11",
+   "slug": "demo-llm-16",
+   "release_date": "2026-07-16",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 40.2,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 37.0
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 3192.02,
+    "cost_per_task": {
+     "total_cost": 1.24
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 1.29,
+    "price_1m_output_tokens": 7.25
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 193.1,
+    "mean_time_to_first_token_seconds": 2.25
+   }
+  },
+  {
+   "id": "demo-llm-17",
+   "name": "Veyra Reason 10 (max)",
+   "slug": "demo-llm-17",
+   "release_date": "2026-08-17",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 38.2,
+    "artificial_analysis_coding_index": 35.4,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 3318.04,
+    "cost_per_task": {
+     "total_cost": 7.881
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 10.53,
+    "price_1m_output_tokens": 38.63
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 155.4,
+    "mean_time_to_first_token_seconds": 3.55
+   }
+  },
+  {
+   "id": "demo-llm-18",
+   "name": "Brightfield Reason 9",
+   "slug": "demo-llm-18",
+   "release_date": "2026-09-18",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 44.7,
+    "artificial_analysis_coding_index": 37.0,
+    "artificial_analysis_agentic_index": 41.4
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2637.63,
+    "cost_per_task": {
+     "total_cost": 3.777
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.28,
+    "price_1m_output_tokens": 1.66
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 131.9,
+    "mean_time_to_first_token_seconds": 7.55
+   }
+  },
+  {
+   "id": "demo-llm-19",
+   "name": "Northwind Reason 8",
+   "slug": "demo-llm-19",
+   "release_date": "2026-01-19",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 46.1,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 44.0
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 3857.63,
+    "cost_per_task": {
+     "total_cost": 2.61
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 2.88,
+    "price_1m_output_tokens": 9.58
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 112.6,
+    "mean_time_to_first_token_seconds": 5.99
+   }
+  },
+  {
+   "id": "demo-llm-20",
+   "name": "Lumora Reason 7",
+   "slug": "demo-llm-20",
+   "release_date": "2026-02-20",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 41.6,
+    "artificial_analysis_coding_index": 38.5,
+    "artificial_analysis_agentic_index": 34.7
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1167.95,
+    "cost_per_task": {
+     "total_cost": 6.466
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.27,
+    "price_1m_output_tokens": 0.81
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 205.9,
+    "mean_time_to_first_token_seconds": 4.58
+   }
+  },
+  {
+   "id": "demo-llm-21",
+   "name": "Aurora Reason 6 (max)",
+   "slug": "demo-llm-21",
+   "release_date": "2026-03-21",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 33.1,
+    "artificial_analysis_coding_index": 30.2,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 465.9,
+    "cost_per_task": {
+     "total_cost": 6.079
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 1.19,
+    "price_1m_output_tokens": 4.75
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 89.6,
+    "mean_time_to_first_token_seconds": 6.88
+   }
+  },
+  {
+   "id": "demo-llm-22",
+   "name": "Veyra Reason 5",
+   "slug": "demo-llm-22",
+   "release_date": "2026-04-22",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 31.4,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": 25.3
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2734.19,
+    "cost_per_task": {
+     "total_cost": 3.138
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 2.42,
+    "price_1m_output_tokens": 12.32
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 135.3,
+    "mean_time_to_first_token_seconds": 2.02
+   }
+  },
+  {
+   "id": "demo-llm-23",
+   "name": "Brightfield Reason 4",
+   "slug": "demo-llm-23",
+   "release_date": "2026-05-23",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 30.8,
+    "artificial_analysis_coding_index": 25.4,
+    "artificial_analysis_agentic_index": 20.0
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 2538.96,
+    "cost_per_task": {
+     "total_cost": 2.918
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 4.8,
+    "price_1m_output_tokens": 22.29
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 30.1,
+    "mean_time_to_first_token_seconds": 2.72
+   }
+  },
+  {
+   "id": "demo-llm-24",
+   "name": "Northwind Reason 3",
+   "slug": "demo-llm-24",
+   "release_date": "2026-06-24",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 34.1,
+    "artificial_analysis_coding_index": 30.4,
+    "artificial_analysis_agentic_index": 28.8
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 1012.07,
+    "cost_per_task": {
+     "total_cost": 4.417
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 3.0,
+    "price_1m_output_tokens": 17.11
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 181.2,
+    "mean_time_to_first_token_seconds": 1.86
+   }
+  },
+  {
+   "id": "demo-llm-25",
+   "name": "Lumora Reason 2 (max)",
+   "slug": "demo-llm-25",
+   "release_date": "2026-07-25",
+   "model_creator": {
+    "id": "demo-creator-lumora",
+    "name": "Lumora"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 40.2,
+    "artificial_analysis_coding_index": null,
+    "artificial_analysis_agentic_index": null
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 554.87,
+    "cost_per_task": {
+     "total_cost": 8.582
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 3.23,
+    "price_1m_output_tokens": 11.97
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 89.0,
+    "mean_time_to_first_token_seconds": 6.57
+   }
+  },
+  {
+   "id": "demo-llm-26",
+   "name": "Aurora Reason 1",
+   "slug": "demo-llm-26",
+   "release_date": "2026-08-26",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "evaluations": {
+    "artificial_analysis_intelligence_index": 37.7,
+    "artificial_analysis_coding_index": 35.7,
+    "artificial_analysis_agentic_index": 32.0
+   },
+   "artificial_analysis_intelligence_index_cost": {
+    "total_cost": 3429.0,
+    "cost_per_task": {
+     "total_cost": 0.934
+    }
+   },
+   "pricing": {
+    "price_1m_input_tokens": 0.1,
+    "price_1m_output_tokens": 0.42
+   },
+   "performance": {
+    "median_output_tokens_per_second": null,
+    "median_time_to_first_token_seconds": null
+   },
+   "performance_v3": {
+    "mean_output_tokens_per_second": 149.7,
+    "mean_time_to_first_token_seconds": 2.04
+   }
+  },
+  {
+   "id": "demo-llm-bad",
+   "name": "",
+   "evaluations": "oops"
+  }
+ ]
+}

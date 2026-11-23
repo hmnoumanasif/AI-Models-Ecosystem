@@ -1,0 +1,169 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-t2v-01",
+   "name": "Aurora Video 14 (max)",
+   "slug": "demo-t2v-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1269,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2v-02",
+   "name": "Veyra Video 14",
+   "slug": "demo-t2v-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1260,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2v-03",
+   "name": "Brightfield Video 14",
+   "slug": "demo-t2v-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1244,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2v-04",
+   "name": "Northwind Video 13",
+   "slug": "demo-t2v-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1242,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2v-05",
+   "name": "Quillon Video 13",
+   "slug": "demo-t2v-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1215,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-t2v-06",
+   "name": "Aurora Video 13 (max)",
+   "slug": "demo-t2v-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1227,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-t2v-07",
+   "name": "Veyra Video 12",
+   "slug": "demo-t2v-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1210,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-t2v-08",
+   "name": "Brightfield Video 12",
+   "slug": "demo-t2v-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1213,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-t2v-09",
+   "name": "Kestrel Video 12",
+   "slug": "demo-t2v-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1199,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-t2v-10",
+   "name": "Quillon Video 11",
+   "slug": "demo-t2v-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1159,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2v-11",
+   "name": "Aurora Video 11 (max)",
+   "slug": "demo-t2v-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1136,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-t2v-12",
+   "name": "Veyra Video 11",
+   "slug": "demo-t2v-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1164,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-t2v-13",
+   "name": "Orbital Video 10",
+   "slug": "demo-t2v-13",
+   "model_creator": {
+    "id": "demo-creator-orbital-arts",
+    "name": "Orbital Arts"
+   },
+   "elo": 1142,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2v-14",
+   "name": "Kestrel Video 10",
+   "slug": "demo-t2v-14",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1109,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2v-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

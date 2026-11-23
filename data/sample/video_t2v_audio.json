@@ -1,0 +1,147 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-t2va-01",
+   "name": "Aurora Clip 12 (max)",
+   "slug": "demo-t2va-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1221,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2va-02",
+   "name": "Veyra Clip 12",
+   "slug": "demo-t2va-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1208,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-t2va-03",
+   "name": "Brightfield Clip 12",
+   "slug": "demo-t2va-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1195,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2va-04",
+   "name": "Northwind Clip 11",
+   "slug": "demo-t2va-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1197,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-t2va-05",
+   "name": "Quillon Clip 11",
+   "slug": "demo-t2va-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1178,
+   "ci_95": 6
+  },
+  {
+   "id": "demo-t2va-06",
+   "name": "Aurora Clip 11 (max)",
+   "slug": "demo-t2va-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1165,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-t2va-07",
+   "name": "Veyra Clip 10",
+   "slug": "demo-t2va-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1178,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-t2va-08",
+   "name": "Brightfield Clip 10",
+   "slug": "demo-t2va-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1129,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-t2va-09",
+   "name": "Kestrel Clip 10",
+   "slug": "demo-t2va-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1152,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-t2va-10",
+   "name": "Quillon Clip 9",
+   "slug": "demo-t2va-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1103,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-t2va-11",
+   "name": "Aurora Clip 9 (max)",
+   "slug": "demo-t2va-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1145,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-t2va-12",
+   "name": "Veyra Clip 9",
+   "slug": "demo-t2va-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1081,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-t2va-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

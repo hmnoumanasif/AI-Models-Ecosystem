@@ -1,0 +1,169 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-edit-01",
+   "name": "Aurora Edit 14 (max)",
+   "slug": "demo-edit-01",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1283,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-edit-02",
+   "name": "Veyra Edit 14",
+   "slug": "demo-edit-02",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1272,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-edit-03",
+   "name": "Brightfield Edit 14",
+   "slug": "demo-edit-03",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1268,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-edit-04",
+   "name": "Northwind Edit 13",
+   "slug": "demo-edit-04",
+   "model_creator": {
+    "id": "demo-creator-northwind-ai",
+    "name": "Northwind AI"
+   },
+   "elo": 1246,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-edit-05",
+   "name": "Quillon Edit 13",
+   "slug": "demo-edit-05",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1231,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-edit-06",
+   "name": "Aurora Edit 13 (max)",
+   "slug": "demo-edit-06",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1235,
+   "ci_95": 22
+  },
+  {
+   "id": "demo-edit-07",
+   "name": "Veyra Edit 12",
+   "slug": "demo-edit-07",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1214,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-edit-08",
+   "name": "Brightfield Edit 12",
+   "slug": "demo-edit-08",
+   "model_creator": {
+    "id": "demo-creator-brightfield",
+    "name": "Brightfield"
+   },
+   "elo": 1226,
+   "ci_95": 15
+  },
+  {
+   "id": "demo-edit-09",
+   "name": "Kestrel Edit 12",
+   "slug": "demo-edit-09",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1215,
+   "ci_95": 12
+  },
+  {
+   "id": "demo-edit-10",
+   "name": "Quillon Edit 11",
+   "slug": "demo-edit-10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "elo": 1176,
+   "ci_95": 8
+  },
+  {
+   "id": "demo-edit-11",
+   "name": "Aurora Edit 11 (max)",
+   "slug": "demo-edit-11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "elo": 1170,
+   "ci_95": 9
+  },
+  {
+   "id": "demo-edit-12",
+   "name": "Veyra Edit 11",
+   "slug": "demo-edit-12",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": 1165,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-edit-13",
+   "name": "Orbital Edit 10",
+   "slug": "demo-edit-13",
+   "model_creator": {
+    "id": "demo-creator-orbital-arts",
+    "name": "Orbital Arts"
+   },
+   "elo": 1185,
+   "ci_95": 18
+  },
+  {
+   "id": "demo-edit-14",
+   "name": "Kestrel Edit 10",
+   "slug": "demo-edit-14",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "elo": 1167,
+   "ci_95": 10
+  },
+  {
+   "id": "demo-edit-bad",
+   "name": "Broken Demo Record",
+   "model_creator": {
+    "id": "demo-creator-veyra",
+    "name": "Veyra"
+   },
+   "elo": "not available",
+   "ci_95": 10
+  }
+ ]
+}

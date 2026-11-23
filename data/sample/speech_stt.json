@@ -1,0 +1,136 @@
+{
+ "tier": "free",
+ "data": [
+  {
+   "id": "demo-stt-01",
+   "name": "Aurora Listen 14",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "aa_wer_index": 0.03
+  },
+  {
+   "id": "demo-stt-02",
+   "name": "Quillon Listen 13",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "aa_wer_index": 0.035
+  },
+  {
+   "id": "demo-stt-03",
+   "name": "Kestrel Listen 12",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "aa_wer_index": 0.041
+  },
+  {
+   "id": "demo-stt-04",
+   "name": "Aurora Listen 11",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "aa_wer_index": 0.048
+  },
+  {
+   "id": "demo-stt-05",
+   "name": "Quillon Listen 10",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "aa_wer_index": 0.055
+  },
+  {
+   "id": "demo-stt-06",
+   "name": "Kestrel Listen 9",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "aa_wer_index": 0.058
+  },
+  {
+   "id": "demo-stt-07",
+   "name": "Aurora Listen 8",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "aa_wer_index": 0.067
+  },
+  {
+   "id": "demo-stt-08",
+   "name": "Quillon Listen 7",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "aa_wer_index": 0.073
+  },
+  {
+   "id": "demo-stt-09",
+   "name": "Kestrel Listen 6",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "aa_wer_index": 0.076
+  },
+  {
+   "id": "demo-stt-10",
+   "name": "Aurora Listen 5",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "aa_wer_index": 0.085
+  },
+  {
+   "id": "demo-stt-11",
+   "name": "Quillon Listen 4",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "aa_wer_index": 0.09
+  },
+  {
+   "id": "demo-stt-12",
+   "name": "Kestrel Listen 3",
+   "model_creator": {
+    "id": "demo-creator-kestrel-studio",
+    "name": "Kestrel Studio"
+   },
+   "aa_wer_index": 0.094
+  },
+  {
+   "id": "demo-stt-13",
+   "name": "Aurora Listen 2",
+   "model_creator": {
+    "id": "demo-creator-aurora-labs",
+    "name": "Aurora Labs"
+   },
+   "aa_wer_index": 0.1
+  },
+  {
+   "id": "demo-stt-14",
+   "name": "Quillon Listen 1",
+   "model_creator": {
+    "id": "demo-creator-quillon",
+    "name": "Quillon"
+   },
+   "aa_wer_index": 0.109
+  },
+  {
+   "id": "demo-stt-bad",
+   "name": "Broken Demo Record",
+   "aa_wer_index": "nan"
+  }
+ ]
+}
